@@ -5,7 +5,7 @@ import org.example.manager.*;
 
 import java.util.Scanner;
 
-public class WalletApp {
+public class WalletApp  {
 
     private final IUserManager userManager;
     private final ITransactionManager transactionManager;
